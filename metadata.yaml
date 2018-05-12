@@ -1,0 +1,36 @@
+_repo: L--quation-de-Fredholm-et-ses-applications-a-la-physique-math-matique_33229
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Fréchet, Maurice
+    aliases:
+    - Fréchet, M. (Maurice)
+    - Frechet, Maurice
+    birthdate: 1878
+    gutenberg_agent_id: '36278'
+    url: http://www.gutenberg.org/2009/agents/36278
+  - agent_name: Heywood, H. Bryon (Horace Bryon)
+    alias: Heywood, Horace Bryon
+    gutenberg_agent_id: '36277'
+    url: http://www.gutenberg.org/2009/agents/36277
+description: ''
+gutenberg_bookshelf:
+- FR Sciences et Techniques
+- Mathematics
+gutenberg_issued: '2010-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33229'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mathematical physics'
+- !lcc 'QA'
+- !lcsh 'Integral equations'
+title: L'Équation de Fredholm et ses applications a la physique mathématique
+url: http://www.gutenberg.org/ebooks/33229
